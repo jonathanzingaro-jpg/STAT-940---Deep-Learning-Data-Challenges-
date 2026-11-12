@@ -1,0 +1,9 @@
+ipykernel
+kaggle
+six
+numpy
+pandas
+scikit-learn
+torch
+transformers
+sentencepiece
